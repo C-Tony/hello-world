@@ -1,2 +1,2 @@
 # hello-world
-who wants some candy?
+just repository
