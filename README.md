@@ -1,3 +1,3 @@
 # hello-world
 
-what the fuck
+facepalm
